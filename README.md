@@ -1,0 +1,2 @@
+# vista
+prueba de vista
